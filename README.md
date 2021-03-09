@@ -12,3 +12,7 @@
 - [Physically Based Rendering: From Theory To Implementation](https://www.amazon.com/Physically-Based-Rendering-Theory-Implementation/dp/0128006455) (TODO: add description)
 - [GPU Gems](https://developer.nvidia.com/gpugems/gpugems/contributors) (TODO: add description)
 - [Ray Tracing in One Weekend Book Series](https://github.com/RayTracing/raytracing.github.io) (TODO: add description)
+
+## Courses
+- [Advances in Real-Time Rendering in 3D Graphics and Games](http://advances.realtimerendering.com/)
+- [GDC Vault](https://www.gdcvault.com/)
