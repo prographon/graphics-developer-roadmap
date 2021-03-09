@@ -16,3 +16,4 @@
 ## Courses
 - [Advances in Real-Time Rendering in 3D Graphics and Games](http://advances.realtimerendering.com/)
 - [GDC Vault](https://www.gdcvault.com/)
+- [Interactive 3D Graphics (Eric Haines)](https://www.udacity.com/course/interactive-3d-graphics--cs291)
