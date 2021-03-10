@@ -44,6 +44,9 @@ This repository contains different resources which may be helpful during your jo
 - [Ray Tracing in One Weekend Book Series](https://github.com/RayTracing/raytracing.github.io) (software ray tracing, BVH)
 - [Collection of PDF books about graphics and programming](https://drive.google.com/drive/folders/1D-M15SvPxF1JqmzRt1UenQ1x6Zp_Ebb9?usp=sharing)
 
+## Articles
+- [Basic Theory of Physically-Based Rendering by Marmoset](https://marmoset.co/posts/basic-theory-of-physically-based-rendering/)
+
 ## Tutorials
 - [Ssloy's tutorials](https://github.com/ssloy/tinyrenderer/wiki) - tinyrenderer (software rasterizer), tinyraytacer (software ray-tracer)
 - [Common techniques to improve shadow maps](https://docs.microsoft.com/en-us/windows/win32/dxtecharts/common-techniques-to-improve-shadow-depth-maps) - antialiasing algorithm for shadows, cascaded shadow maps, solutions to common problems (with DirectX 11 code snippets)
@@ -68,7 +71,7 @@ This repository contains different resources which may be helpful during your jo
 - [Eric Heitz](https://eheitzresearch.wordpress.com/research/) - research scientist at Unity Technologies
 - [Wenzel Jakob](http://rgl.epfl.ch/people/wjakob) - assistant professor leading the Realistic Graphics Lab at EPFL's School of Computer and Communication Sciences
 - [Real-time rendering resources](https://www.realtimerendering.com/) - resources page for the book Real-Time Rendering and a lot of useful links
-- [Alian Galvan](https://alain.xyz/blog) - engine development, samples with different graphics API
+- [Alian Galvan](https://alain.xyz/blog) - graphics programmer at Marmoset about engine development, samples with different graphics API
 - [Game Development by Sean](https://seanmiddleditch.com/) - game and engine development, common techniques
 - [CODE517E](https://c0de517e.blogspot.com/) - blog about graphics by graphics programmer at Altera
 - [Aras P](https://aras-p.info/blog/) - lead graphics programmer at Unity, contains many tricks and techniques
