@@ -16,6 +16,7 @@ This repository contains different resources which may be helpful during your jo
 
 <img src="images/vulkan-logo.png" height="150">
 
+- [Vulkan 1.2 API Specifications](https://www.khronos.org/registry/vulkan/specs/1.2-extensions/html/index.html) - Official Vulkan specification by Khronos
 - [Vulkan Tutorial](https://vulkan-tutorial.com/) - Vulkan tutorial teaching basics of the API (initializing context, drawing triangle, texturing, mesh loading)
 - [API without Secrets: Introduction to Vulkan](https://software.intel.com/content/www/us/en/develop/articles/api-without-secrets-introduction-to-vulkan-preface.html) - in depth tutorial about Vulkan API (initializing context, swapchain, drawing triangle, descriptor sets) 
 - [Vulkan Guide](https://github.com/KhronosGroup/Vulkan-Guide) - Vulkan guide by Khronos Group (graphic pipeline, layers, memory allocations, synchronization)
