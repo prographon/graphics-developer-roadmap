@@ -47,6 +47,13 @@ This repository contains different resources which may be helpful during your jo
 - [GDC Vault](https://www.gdcvault.com/)
 - [Interactive 3D Graphics (Eric Haines)](https://www.udacity.com/course/interactive-3d-graphics--cs291)
 
+## Video courses
+- [TU Wien Ray tracing course](https://www.youtube.com/playlist?list=PLujxSBD-JXgnGmsn7gEyN28P1DnRZG7qi) - A course on photorealistic rendering, ray tracing and global illumination at the TU Wien
+
+## Digests
+- [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg) - summaries of modern articles on computer graphics
+- [Graphics Programming weekly](https://www.jendrikillner.com/tags/weekly/) - weekly newsletter with CG materials
+
 ## Blogs
 - [Self Shadow](https://blog.selfshadow.com/) - Stephen Hill, principal rendering engineer, Lucasfilm Advanced Development Group
 - [Wicked Engine Net](https://wickedengine.net/) - blog about computer graphics and game engine dev by graphics programmer at Sony
@@ -54,10 +61,3 @@ This repository contains different resources which may be helpful during your jo
 - [Eric Heitz](https://eheitzresearch.wordpress.com/research/) - research scientist at Unity Technologies
 - [Wenzel Jakob](http://rgl.epfl.ch/people/wjakob) - assistant professor leading the Realistic Graphics Lab at EPFL's School of Computer and Communication Sciences
 - [Real-time rendering resources](https://www.realtimerendering.com/) - resources page for the book Real-Time Rendering and a lot of useful links
-
-## Video courses
-- [TU Wien Ray tracing course](https://www.youtube.com/playlist?list=PLujxSBD-JXgnGmsn7gEyN28P1DnRZG7qi) - A course on photorealistic rendering, ray tracing and global illumination at the TU Wien
-
-## Digests
-- [Two minute papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg) - summaries of modern articles on computer graphics
-- [Graphics Programming wekly](https://www.jendrikillner.com/tags/weekly/) - weekly newsletter with CG materials
