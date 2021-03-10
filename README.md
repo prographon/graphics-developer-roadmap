@@ -61,3 +61,7 @@ This repository contains different resources which may be helpful during your jo
 - [Eric Heitz](https://eheitzresearch.wordpress.com/research/) - research scientist at Unity Technologies
 - [Wenzel Jakob](http://rgl.epfl.ch/people/wjakob) - assistant professor leading the Realistic Graphics Lab at EPFL's School of Computer and Communication Sciences
 - [Real-time rendering resources](https://www.realtimerendering.com/) - resources page for the book Real-Time Rendering and a lot of useful links
+- [Alian Galvan](https://alain.xyz/blog) - engine development, samples with different graphics API
+- [Game Development by Sean](https://seanmiddleditch.com/) - game and engine development, common techniques
+- [CODE517E](https://c0de517e.blogspot.com/) - blog about graphics by graphics programmer at Altera
+- [Aras P](https://aras-p.info/blog/) - lead graphics programmer at Unity, contains many tricks and techniques
