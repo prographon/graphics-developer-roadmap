@@ -6,6 +6,11 @@
 
 - [Learn OpenGL](https://learnopengl.com/) - modern (3.3+) OpenGL tutorial (phong lighting, mesh loading, texturing, PBR + IBL lighting) 
 
+### Vulkan
+
+- [Vulkan Tutorial](https://vulkan-tutorial.com/) - Vulkan Tutorial teaching basics of the API (initializing context, drawing triangle, texturing, mesh loading)
+- [](https://software.intel.com/content/www/us/en/develop/articles/api-without-secrets-introduction-to-vulkan-preface.html) - in depth tutorial about Vulkan API (initializing context, swapchain, drawing triangle, descriptor sets) 
+
 ## Books
 
 - [Realtime Rendering](https://www.amazon.com/Real-Time-Rendering-Fourth-Tomas-Akenine-M%C3%B6ller/dp/1138627003) (graphics hardware, shading & lighting algorithms, ray tracing)
