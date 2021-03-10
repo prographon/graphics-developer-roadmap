@@ -9,7 +9,7 @@
 ### Vulkan
 
 - [Vulkan Tutorial](https://vulkan-tutorial.com/) - Vulkan Tutorial teaching basics of the API (initializing context, drawing triangle, texturing, mesh loading)
-- [](https://software.intel.com/content/www/us/en/develop/articles/api-without-secrets-introduction-to-vulkan-preface.html) - in depth tutorial about Vulkan API (initializing context, swapchain, drawing triangle, descriptor sets) 
+- [API without Secrets: Introduction to Vulkan](https://software.intel.com/content/www/us/en/develop/articles/api-without-secrets-introduction-to-vulkan-preface.html) - in depth tutorial about Vulkan API (initializing context, swapchain, drawing triangle, descriptor sets) 
 
 ## Books
 
