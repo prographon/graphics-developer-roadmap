@@ -72,6 +72,7 @@ This repository contains different resources which may be helpful during your jo
 - [Game Development by Sean](https://seanmiddleditch.com/) - game and engine development, common techniques
 - [CODE517E](https://c0de517e.blogspot.com/) - blog about graphics by graphics programmer at Altera
 - [Aras P](https://aras-p.info/blog/) - lead graphics programmer at Unity, contains many tricks and techniques
+- [Arseny Kapoulkine](https://zeux.io/) - technical fellow at Roblox, Vulkan-related and mobile stuff
 
 ## Useful sites
 - [Shader Playground](http://shader-playground.timjones.io/) - powerful online shader compiler
