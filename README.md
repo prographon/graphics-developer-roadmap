@@ -25,6 +25,9 @@ This repository contains different resources which may be helpful during your jo
 <img src="images/directx12-logo.png" height="150">
 
 - [Learning DirectX 12](https://www.3dgep.com/learning-directx-12-1/) - in depth tutorial about DirectX 12 API (graphic pipeline, command queues, descriptor sets, texturing)
+- [Official DirectX 12 Graphics samples by Microsoft](https://github.com/microsoft/DirectX-Graphics-Samples)
+- [Official DirectX documentation](https://docs.microsoft.com/en-us/windows/win32/directx)
+- [DirectX supplementary specs (GitHub)](https://microsoft.github.io/DirectX-Specs/)
 
 ## Books
 
