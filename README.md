@@ -33,7 +33,7 @@ This repository contains different resources which may be helpful during your jo
 ## Books
 
 - [Realtime Rendering](https://www.amazon.com/Real-Time-Rendering-Fourth-Tomas-Akenine-M%C3%B6ller/dp/1138627003) (graphics hardware, shading & lighting algorithms, ray tracing)
-- [Physically Based Rendering: From Theory To Implementation](https://www.amazon.com/Physically-Based-Rendering-Theory-Implementation/dp/0128006455) (PBR, photorealistic rendering, sampling methods)
+- [Physically Based Rendering: From Theory To Implementation](http://www.pbr-book.org/) (PBR, photorealistic rendering, sampling methods)
 - [Advanced Global Illumination](https://www.amazon.com/Advanced-Global-Illumination-Philip-Dutre/dp/1568813074) (global illumination algorithms, light transport theory, radiosity)
 - [GPU Gems](https://developer.nvidia.com/gpugems/gpugems/contributors) (collections of different 3D graphics algorithms)
 - [Ray Tracing in One Weekend Book Series](https://github.com/RayTracing/raytracing.github.io) (software ray tracing, BVH)
@@ -47,5 +47,17 @@ This repository contains different resources which may be helpful during your jo
 - [GDC Vault](https://www.gdcvault.com/)
 - [Interactive 3D Graphics (Eric Haines)](https://www.udacity.com/course/interactive-3d-graphics--cs291)
 
+## Video courses
+- [TU Wien Ray tracing course](https://www.youtube.com/playlist?list=PLujxSBD-JXgnGmsn7gEyN28P1DnRZG7qi) - A course on photorealistic rendering, ray tracing and global illumination at the TU Wien
+
+## Digests
+- [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg) - summaries of modern articles on computer graphics
+- [Graphics Programming weekly](https://www.jendrikillner.com/tags/weekly/) - weekly newsletter with CG materials
+
 ## Blogs
+- [Self Shadow](https://blog.selfshadow.com/) - Stephen Hill, principal rendering engineer, Lucasfilm Advanced Development Group
 - [Wicked Engine Net](https://wickedengine.net/) - blog about computer graphics and game engine dev by graphics programmer at Sony
+- [Ray Tracey's blog](http://raytracey.blogspot.com/) - Sam Lapere, scientific visualization devtech at Nvidia
+- [Eric Heitz](https://eheitzresearch.wordpress.com/research/) - research scientist at Unity Technologies
+- [Wenzel Jakob](http://rgl.epfl.ch/people/wjakob) - assistant professor leading the Realistic Graphics Lab at EPFL's School of Computer and Communication Sciences
+- [Real-time rendering resources](https://www.realtimerendering.com/) - resources page for the book Real-Time Rendering and a lot of useful links
