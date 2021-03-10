@@ -11,6 +11,7 @@ This repository contains different resources which may be helpful during your jo
 - [Learn OpenGL](https://learnopengl.com/) - modern (3.3+) OpenGL tutorial (phong lighting, shadow mapping, mesh loading, deferred rendering, PBR + IBL lighting) 
 - [OpenGL step by step](http://ogldev.atspace.co.uk/) - modern (3.3+) OpenGL tutorial (phong lighting, shadow mapping, mesh loading, deferred rendering, skeletal animation)
 - [OpenGL tutorial](http://www.opengl-tutorial.org/) - modern (3.3+) OpenGL tutorial (phong lighting, shadow mapping, text rendering, mesh loading)
+- [OpenGL by The Cherno](https://www.youtube.com/watch?v=W3gAzLwfIP0&list=PLlrATfBNZ98foTJPJ_Ev03o2oq3-GGOS2&ab_channel=TheCherno) - step by step course for beginners
 
 ### Vulkan
 
