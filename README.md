@@ -13,8 +13,15 @@
 
 <img src="images/vulkan-logo.png" height="150">
 
-- [Vulkan Tutorial](https://vulkan-tutorial.com/) - Vulkan Tutorial teaching basics of the API (initializing context, drawing triangle, texturing, mesh loading)
+- [Vulkan Tutorial](https://vulkan-tutorial.com/) - Vulkan tutorial teaching basics of the API (initializing context, drawing triangle, texturing, mesh loading)
 - [API without Secrets: Introduction to Vulkan](https://software.intel.com/content/www/us/en/develop/articles/api-without-secrets-introduction-to-vulkan-preface.html) - in depth tutorial about Vulkan API (initializing context, swapchain, drawing triangle, descriptor sets) 
+- [Vulkan Guide](https://github.com/KhronosGroup/Vulkan-Guide) - Vulkan guide by Khronos Group (graphic pipeline, layers, memory allocations, synchronization)
+
+### DirectX 12
+
+<img src="images/directx12-logo.png" height="150">
+
+- [Learning DirectX 12](https://www.3dgep.com/learning-directx-12-1/) - in depth tutorial about DirectX 12 API (graphic pipeline, command queues, descriptor sets, texturing)
 
 ## Books
 
