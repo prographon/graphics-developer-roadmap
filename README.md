@@ -4,10 +4,14 @@
 
 ### OpenGL
 
+<img src="images/opengl-logo.png" height="150">
+
 - [Learn OpenGL](https://learnopengl.com/) - modern (3.3+) OpenGL tutorial (phong lighting, shadow mapping, mesh loading, deferred rendering, PBR + IBL lighting) 
 - [OpenGL step by step](http://ogldev.atspace.co.uk/) - modern (3.3+) OpenGL tutorial (phong lighting, shadow mapping, mesh loading, deferred rendering, skeletal animation)
 
 ### Vulkan
+
+<img src="images/vulkan-logo.png" height="150">
 
 - [Vulkan Tutorial](https://vulkan-tutorial.com/) - Vulkan Tutorial teaching basics of the API (initializing context, drawing triangle, texturing, mesh loading)
 - [API without Secrets: Introduction to Vulkan](https://software.intel.com/content/www/us/en/develop/articles/api-without-secrets-introduction-to-vulkan-preface.html) - in depth tutorial about Vulkan API (initializing context, swapchain, drawing triangle, descriptor sets) 
