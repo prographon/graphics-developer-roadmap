@@ -44,6 +44,7 @@ This repository contains different resources which may be helpful during your jo
 ## Tutorials
 - [Ssloy's tutorials](https://github.com/ssloy/tinyrenderer/wiki) - tinyrenderer (software rasterizer), tinyraytacer (software ray-tracer)
 - [Common techniques to improve shadow maps](https://docs.microsoft.com/en-us/windows/win32/dxtecharts/common-techniques-to-improve-shadow-depth-maps) - antialiasing algorithm for shadows, cascaded shadow maps, solutions to common problems (with DirectX 11 code snippets)
+- [AMD RDNA2 Perfomance Guide](https://gpuopen.com/performance/)
 
 ## Courses
 - [Advances in Real-Time Rendering in 3D Graphics and Games](http://advances.realtimerendering.com/)
@@ -70,5 +71,19 @@ This repository contains different resources which may be helpful during your jo
 - [Aras P](https://aras-p.info/blog/) - lead graphics programmer at Unity, contains many tricks and techniques
 
 ## Useful sites
-- [Shader playground](http://shader-playground.timjones.io/) - powerful online shader compiler
+- [Shader Playground](http://shader-playground.timjones.io/) - powerful online shader compiler
 - [GPU info](https://gpuinfo.org/) - open database of Vulkan, GL and GLES devices, their capabilities and supported extensions
+
+## Tools
+- [RenderDoc](https://renderdoc.org/) - very powerful Vulkan, DirectX and OpenGL debugger with support of in-engine integration
+- [AMD CodeXL](https://github.com/GPUOpen-Archive/CodeXL) - CPU/GPU debugger and profiler
+- [AMD Compressonator](https://gpuopen.com/compressonator/) - tool for texture compression
+- [AMD GPU Profiler](https://gpuopen.com/rgp/)
+- [AMD Memory Visualizer](https://gpuopen.com/rmv/)
+- [AMD Developer Panel](https://gpuopen.com/rdp/)
+- [AMD GPU Analyzer](https://gpuopen.com/rga/) - offline compiling tool and ISA inspector
+- [NVidia NSight](https://developer.nvidia.com/nsight-graphics) - powerful profiling tool, support of ray-tracing debugging
+- [Intel GPA](https://software.intel.com/content/www/us/en/develop/tools/graphics-performance-analyzers.html)
+- [Apple Metal debugger](https://developer.apple.com/documentation/metal/basic_tasks_and_concepts/viewing_your_gpu_workload_with_the_metal_debugger) - powerful macOS and iOS graphics debugger, profiler with shader debugging
+- [Microsoft PIX](https://devblogs.microsoft.com/pix/introduction/) - powerful Windows and XBOX debugger and profiler
+- [PowerVR SDK Tools](https://www.imaginationtech.com/developers/powervr-sdk-tools/) - collection of tools for graphics programming
