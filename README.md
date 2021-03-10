@@ -31,9 +31,10 @@ This repository contains different resources which may be helpful during your jo
 - [Official DirectX documentation](https://docs.microsoft.com/en-us/windows/win32/directx)
 - [Official DXIL documentation](https://github.com/microsoft/DirectXShaderCompiler/blob/master/docs/DXIL.rst)
 - [DirectX supplementary specs (GitHub)](https://microsoft.github.io/DirectX-Specs/)
+- [DirectX 3D Series](https://wiki.planetchili.net/index.php/Hardware_3D_Series_(C%2B%2B_DirectX_Graphics))
+- [Braynzar soft DirectX 12 tutorials](https://www.braynzarsoft.net/viewtutorial/q16390-04-directx-12-braynzar-soft-tutorials)
 
 ## Books
-
 - [Realtime Rendering](https://www.amazon.com/Real-Time-Rendering-Fourth-Tomas-Akenine-M%C3%B6ller/dp/1138627003) (graphics hardware, shading & lighting algorithms, ray tracing)
 - [Physically Based Rendering: From Theory To Implementation](http://www.pbr-book.org/) (PBR, photorealistic rendering, sampling methods)
 - [Advanced Global Illumination](https://www.amazon.com/Advanced-Global-Illumination-Philip-Dutre/dp/1568813074) (global illumination algorithms, light transport theory, radiosity)
