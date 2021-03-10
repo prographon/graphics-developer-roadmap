@@ -1,5 +1,7 @@
 # graphics-developer-roadmap
 
+This repository contains different resources which may be helpful during your journey of becoming a graphics developer. The list is supported by [@prographon](https://github.com/prographon) community. Our current plans inlclude finding more high-quality books, tutorials and articles, creating a step-by-step guide (roadmap) for becoming a graphics engineer and sharing knowledge about new edge-breaking technologies in Computer Graphics.
+
 ## Graphic API
 
 ### OpenGL
