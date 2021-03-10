@@ -73,6 +73,7 @@ This repository contains different resources which may be helpful during your jo
 ## Useful sites
 - [Shader Playground](http://shader-playground.timjones.io/) - powerful online shader compiler
 - [GPU info](https://gpuinfo.org/) - open database of Vulkan, GL and GLES devices, their capabilities and supported extensions
+- [HexEd](https://hexed.it/) - browser-based hex editor
 
 ## Tools
 - [RenderDoc](https://renderdoc.org/) - very powerful Vulkan, DirectX and OpenGL debugger with support of in-engine integration
