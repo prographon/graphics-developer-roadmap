@@ -68,3 +68,7 @@ This repository contains different resources which may be helpful during your jo
 - [Game Development by Sean](https://seanmiddleditch.com/) - game and engine development, common techniques
 - [CODE517E](https://c0de517e.blogspot.com/) - blog about graphics by graphics programmer at Altera
 - [Aras P](https://aras-p.info/blog/) - lead graphics programmer at Unity, contains many tricks and techniques
+
+## Useful sites
+- [Shader playground](http://shader-playground.timjones.io/) - powerful online shader compiler
+- [GPU info](https://gpuinfo.org/) - open database of Vulkan, GL and GLES devices, their capabilities and supported extensions
