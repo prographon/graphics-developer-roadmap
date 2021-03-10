@@ -8,10 +8,10 @@
 
 ## Books
 
-- [Realtime Rendering](https://www.amazon.com/Real-Time-Rendering-Fourth-Tomas-Akenine-M%C3%B6ller/dp/1138627003) (TODO: add description)
-- [Physically Based Rendering: From Theory To Implementation](https://www.amazon.com/Physically-Based-Rendering-Theory-Implementation/dp/0128006455) (TODO: add description)
-- [GPU Gems](https://developer.nvidia.com/gpugems/gpugems/contributors) (TODO: add description)
-- [Ray Tracing in One Weekend Book Series](https://github.com/RayTracing/raytracing.github.io) (TODO: add description)
+- [Realtime Rendering](https://www.amazon.com/Real-Time-Rendering-Fourth-Tomas-Akenine-M%C3%B6ller/dp/1138627003) (graphics hardware, shading & lighting algorithms, ray tracing)
+- [Physically Based Rendering: From Theory To Implementation](https://www.amazon.com/Physically-Based-Rendering-Theory-Implementation/dp/0128006455) (PBR, photorealistic rendering, sampling methods)
+- [GPU Gems](https://developer.nvidia.com/gpugems/gpugems/contributors) (collections of different 3D graphics algorithms)
+- [Ray Tracing in One Weekend Book Series](https://github.com/RayTracing/raytracing.github.io) (software ray tracing, BVH)
 
 ## Courses
 - [Advances in Real-Time Rendering in 3D Graphics and Games](http://advances.realtimerendering.com/)
