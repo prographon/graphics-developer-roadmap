@@ -46,3 +46,6 @@ This repository contains different resources which may be helpful during your jo
 - [Advances in Real-Time Rendering in 3D Graphics and Games](http://advances.realtimerendering.com/)
 - [GDC Vault](https://www.gdcvault.com/)
 - [Interactive 3D Graphics (Eric Haines)](https://www.udacity.com/course/interactive-3d-graphics--cs291)
+
+## Blogs
+- [Wicked Engine Net](https://wickedengine.net/) - blog about computer graphics and game engine dev by graphics programmer at Sony
