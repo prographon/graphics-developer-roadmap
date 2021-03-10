@@ -37,8 +37,7 @@ This repository contains different resources which may be helpful during your jo
 ## Books
 - [Realtime Rendering](https://www.amazon.com/Real-Time-Rendering-Fourth-Tomas-Akenine-M%C3%B6ller/dp/1138627003) (graphics hardware, shading & lighting algorithms, ray tracing)
 - [Physically Based Rendering: From Theory To Implementation](http://www.pbr-book.org/) (PBR, photorealistic rendering, sampling methods)
-- [Substance PBR Guide Part 1](https://academy.substance3d.com/courses/the-pbr-guide-part-1)
-- [Substance PBR Guide Part 2](https://academy.substance3d.com/courses/the-pbr-guide-part-2)
+- [Substance PBR Guide](https://academy.substance3d.com/courses/the-pbr-guide-part-1)
 - [Advanced Global Illumination](https://www.amazon.com/Advanced-Global-Illumination-Philip-Dutre/dp/1568813074) (global illumination algorithms, light transport theory, radiosity)
 - [GPU Gems](https://developer.nvidia.com/gpugems/gpugems/contributors) (collections of different 3D graphics algorithms)
 - [Ray Tracing in One Weekend Book Series](https://github.com/RayTracing/raytracing.github.io) (software ray tracing, BVH)
@@ -78,6 +77,7 @@ This repository contains different resources which may be helpful during your jo
 
 ## Useful sites
 - [Shader Playground](http://shader-playground.timjones.io/) - powerful online shader compiler
+- [Shadertoy](https://www.shadertoy.com/) - shader showcase sandbox
 - [GPU info](https://gpuinfo.org/) - open database of Vulkan, GL and GLES devices, their capabilities and supported extensions
 - [HexEd](https://hexed.it/) - browser-based hex editor
 
@@ -92,5 +92,6 @@ This repository contains different resources which may be helpful during your jo
 - [NVidia NSight](https://developer.nvidia.com/nsight-graphics) - powerful profiling tool, support of ray-tracing debugging
 - [Intel GPA](https://software.intel.com/content/www/us/en/develop/tools/graphics-performance-analyzers.html)
 - [Apple Metal debugger](https://developer.apple.com/documentation/metal/basic_tasks_and_concepts/viewing_your_gpu_workload_with_the_metal_debugger) - powerful macOS and iOS graphics debugger, profiler with shader debugging
+- [ShaderED](https://shadered.org/) - shader IDE with lots of debugging utilities
 - [Microsoft PIX](https://devblogs.microsoft.com/pix/introduction/) - powerful Windows and XBOX debugger and profiler
 - [PowerVR SDK Tools](https://www.imaginationtech.com/developers/powervr-sdk-tools/) - collection of tools for graphics programming
