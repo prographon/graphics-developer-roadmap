@@ -37,8 +37,7 @@ This repository contains different resources which may be helpful during your jo
 ## Books
 - [Realtime Rendering](https://www.amazon.com/Real-Time-Rendering-Fourth-Tomas-Akenine-M%C3%B6ller/dp/1138627003) (graphics hardware, shading & lighting algorithms, ray tracing)
 - [Physically Based Rendering: From Theory To Implementation](http://www.pbr-book.org/) (PBR, photorealistic rendering, sampling methods)
-- [Substance PBR Guide Part 1](https://academy.substance3d.com/courses/the-pbr-guide-part-1)
-- [Substance PBR Guide Part 2](https://academy.substance3d.com/courses/the-pbr-guide-part-2)
+- [Substance PBR Guide](https://academy.substance3d.com/courses/the-pbr-guide-part-1)
 - [Advanced Global Illumination](https://www.amazon.com/Advanced-Global-Illumination-Philip-Dutre/dp/1568813074) (global illumination algorithms, light transport theory, radiosity)
 - [GPU Gems](https://developer.nvidia.com/gpugems/gpugems/contributors) (collections of different 3D graphics algorithms)
 - [Ray Tracing in One Weekend Book Series](https://github.com/RayTracing/raytracing.github.io) (software ray tracing, BVH)
