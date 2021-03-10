@@ -22,6 +22,7 @@ This repository contains different resources which may be helpful during your jo
 - [API without Secrets: Introduction to Vulkan](https://software.intel.com/content/www/us/en/develop/articles/api-without-secrets-introduction-to-vulkan-preface.html) - in depth tutorial about Vulkan API (initializing context, swapchain, drawing triangle, descriptor sets) 
 - [Vulkan Guide](https://github.com/KhronosGroup/Vulkan-Guide) - Vulkan guide by Khronos Group (graphic pipeline, layers, memory allocations, synchronization)
 - [niagara: Building a Vulkan renderer from scratch](https://www.youtube.com/playlist?list=PL0JVLUVCkk-l7CWCn3-cdftR0oajugYvd) - In-depth lessons series about how to use few modern Vulkan rendering techniques, such as GPU culling & scene submission, cone culling, automatic occlusion culling, task/mesh shading, and others
+- [Sascha Willems](https://github.com/SaschaWillems/Vulkan) - Examples in Vulkan, that are helpful during learning Vulkan
 
 ### DirectX 12
 
@@ -43,6 +44,7 @@ This repository contains different resources which may be helpful during your jo
 - [GPU Gems](https://developer.nvidia.com/gpugems/gpugems/contributors) (collections of different 3D graphics algorithms)
 - [Ray Tracing in One Weekend Book Series](https://github.com/RayTracing/raytracing.github.io) (software ray tracing, BVH)
 - [Collection of PDF books about graphics and programming](https://drive.google.com/drive/folders/1D-M15SvPxF1JqmzRt1UenQ1x6Zp_Ebb9?usp=sharing)
+- [GPU Pro](https://www.amazon.com/GPU-Pro-Advanced-Rendering-Techniques/dp/1568814720) (like GPU Gems, but it's closer to state-of-art)
 
 ## Articles
 - [Basic Theory of Physically-Based Rendering by Marmoset](https://marmoset.co/posts/basic-theory-of-physically-based-rendering/)
@@ -76,6 +78,7 @@ This repository contains different resources which may be helpful during your jo
 - [CODE517E](https://c0de517e.blogspot.com/) - blog about graphics by graphics programmer at Altera
 - [Aras P](https://aras-p.info/blog/) - lead graphics programmer at Unity, contains many tricks and techniques
 - [Arseny Kapoulkine](https://zeux.io/) - technical fellow at Roblox, Vulkan-related and mobile stuff
+- [Adrian Courreges](http://www.adriancourreges.com/blog/) - collection of frame analysis during current decade of different games
 
 ## Useful sites
 - [Shader Playground](http://shader-playground.timjones.io/) - powerful online shader compiler
@@ -97,3 +100,4 @@ This repository contains different resources which may be helpful during your jo
 - [ShaderED](https://shadered.org/) - shader IDE with lots of debugging utilities
 - [Microsoft PIX](https://devblogs.microsoft.com/pix/introduction/) - powerful Windows and XBOX debugger and profiler
 - [PowerVR SDK Tools](https://www.imaginationtech.com/developers/powervr-sdk-tools/) - collection of tools for graphics programming
+- [Naga](https://github.com/gfx-rs/naga) - convert from one shader format into another
