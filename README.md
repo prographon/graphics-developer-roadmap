@@ -47,6 +47,7 @@ This repository contains different resources which may be helpful during your jo
 
 ## Articles
 - [Basic Theory of Physically-Based Rendering by Marmoset](https://marmoset.co/posts/basic-theory-of-physically-based-rendering/)
+- [Physically Based Rendering in Filament](https://google.github.io/filament/Filament.html) - equations and theory behind the material and lighting models used in Filament.
 
 ## Tutorials
 - [Ssloy's tutorials](https://github.com/ssloy/tinyrenderer/wiki) - tinyrenderer (software rasterizer), tinyraytacer (software ray-tracer)
@@ -78,6 +79,7 @@ This repository contains different resources which may be helpful during your jo
 - [Aras P](https://aras-p.info/blog/) - lead graphics programmer at Unity, contains many tricks and techniques
 - [Arseny Kapoulkine](https://zeux.io/) - technical fellow at Roblox, Vulkan-related and mobile stuff
 - [Adrian Courreges](http://www.adriancourreges.com/blog/) - collection of frame analysis during current decade of different games
+- [Matt Pettineo](https://therealmjp.github.io/posts/) - lead graphics/engine programmer at Ready At Dawn Studios, articles about Spherical Gaussians and GPU Barriers
 
 ## Useful sites
 - [Shader Playground](http://shader-playground.timjones.io/) - powerful online shader compiler
