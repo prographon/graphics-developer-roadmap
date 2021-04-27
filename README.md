@@ -17,12 +17,13 @@ This repository contains different resources which may be helpful during your jo
 
 <img src="images/vulkan-logo.png" height="150">
 
-- [Vulkan 1.2 API Specifications](https://www.khronos.org/registry/vulkan/specs/1.2-extensions/html/index.html) - Official Vulkan specification by Khronos
+- [Vulkan 1.2 API Specifications](https://www.khronos.org/registry/vulkan/specs/1.2-extensions/html/index.html) - Official Vulkan specification by Khronos Group
 - [Vulkan Tutorial](https://vulkan-tutorial.com/) - Vulkan tutorial teaching basics of the API (initializing context, drawing triangle, texturing, mesh loading)
 - [API without Secrets: Introduction to Vulkan](https://software.intel.com/content/www/us/en/develop/articles/api-without-secrets-introduction-to-vulkan-preface.html) - in depth tutorial about Vulkan API (initializing context, swapchain, drawing triangle, descriptor sets) 
 - [Vulkan Guide](https://github.com/KhronosGroup/Vulkan-Guide) - Vulkan guide by Khronos Group (graphic pipeline, layers, memory allocations, synchronization)
 - [niagara: Building a Vulkan renderer from scratch](https://www.youtube.com/playlist?list=PL0JVLUVCkk-l7CWCn3-cdftR0oajugYvd) - In-depth lessons series about how to use few modern Vulkan rendering techniques, such as GPU culling & scene submission, cone culling, automatic occlusion culling, task/mesh shading, and others
 - [Tips and Tricks: Vulkan Dos and Don’ts](https://developer.nvidia.com/blog/vulkan-dos-donts/) - Nvidia's tips for designing high performance Vulkan applications
+- [Vulkanised](https://www.youtube.com/watch?v=1rDCNknSb2s&list=PLYO7XTAX41FPMg41svrVJA9stwcYCvdW0) - Open webinars about Vulkan best practices and pitfalls by Khronos Group
 
 ### DirectX 12
 
