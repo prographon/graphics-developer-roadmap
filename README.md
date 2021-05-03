@@ -24,6 +24,7 @@ This repository contains different resources which may be helpful during your jo
 - [niagara: Building a Vulkan renderer from scratch](https://www.youtube.com/playlist?list=PL0JVLUVCkk-l7CWCn3-cdftR0oajugYvd) - In-depth lessons series about how to use few modern Vulkan rendering techniques, such as GPU culling & scene submission, cone culling, automatic occlusion culling, task/mesh shading, and others
 - [Tips and Tricks: Vulkan Dos and Don’ts](https://developer.nvidia.com/blog/vulkan-dos-donts/) - Nvidia's tips for designing high performance Vulkan applications
 - [Vulkanised](https://www.youtube.com/watch?v=1rDCNknSb2s&list=PLYO7XTAX41FPMg41svrVJA9stwcYCvdW0) - Open webinars about Vulkan best practices and pitfalls by Khronos Group
+- [Writing an efficient Vulkan renderer](https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/) - Chapter about Vulkan renderer from GPU Zen 2 book in a form of the blogpost
 
 ### DirectX 12
 
