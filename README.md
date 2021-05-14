@@ -10,7 +10,7 @@ The first thing to note is that to become graphic/rendering developer you must r
 
 ### Starting point
 
-One of the easiest way to touch graphics programming without dealing with real graphic APIs is to write a software rasterizer/raytracer. [Ssloy's tutorials](https://github.com/ssloy/tinyrenderer/wiki) contain two very well explained tutorials: [tinyraytracer](https://github.com/ssloy/tinyraytracer/wiki) and [tinyrenderer](https://github.com/ssloy/tinyrenderer/wiki/Lesson-0:-getting-started). You can go through them first and get a good insight on how raytracing and graphic API implementation works, without even touching a real GPU.
+One of the easiest way to touch graphics programming without dealing with real graphic APIs is to write a software rasterizer/raytracer. [Ssloy's tutorials](https://github.com/ssloy/tinyrenderer/wiki) contain two very well written tutorials: [tinyraytracer](https://github.com/ssloy/tinyraytracer/wiki) and [tinyrenderer](https://github.com/ssloy/tinyrenderer/wiki/Lesson-0:-getting-started). You can go through them first and get a good insight on how raytracing and graphic API implementation works, without even touching a real GPU.
 
 ### WIP
 
@@ -27,7 +27,7 @@ One of the easiest way to touch graphics programming without dealing with real g
 - [Learn OpenGL](https://learnopengl.com/) - modern (3.3+) OpenGL tutorial (phong lighting, shadow mapping, mesh loading, deferred rendering, PBR + IBL lighting) 
 - [OpenGL step by step](http://ogldev.atspace.co.uk/) - modern (3.3+) OpenGL tutorial (phong lighting, shadow mapping, mesh loading, deferred rendering, skeletal animation)
 - [OpenGL tutorial](http://www.opengl-tutorial.org/) - modern (3.3+) OpenGL tutorial (phong lighting, shadow mapping, text rendering, mesh loading)
-- [OpenGL by The Cherno](https://www.youtube.com/watch?v=W3gAzLwfIP0&list=PLlrATfBNZ98foTJPJ_Ev03o2oq3-GGOS2&ab_channel=TheCherno) - step by step course for beginners
+- [OpenGL by The Cherno](https://www.youtube.com/watch?v=W3gAzLwfIP0&list=PLlrATfBNZ98foTJPJ_Ev03o2oq3-GGOS2&ab_channel=TheCherno) - step by step OpenGL course for beginners (basic 2D rendering, texturing, batching)
 
 ### Vulkan
 
