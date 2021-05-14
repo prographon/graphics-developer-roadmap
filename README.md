@@ -1,6 +1,22 @@
 # graphics-developer-roadmap
 
-This repository contains different resources which may be helpful during your journey of becoming a graphics developer. The list is supported by [@prographon](https://github.com/prographon) community. Our current plans inlclude finding more high-quality books, tutorials and articles, creating a step-by-step guide (roadmap) for becoming a graphics engineer and sharing knowledge about new edge-breaking technologies in Computer Graphics.
+This repository contains different resources which may be helpful during your journey of becoming a graphics developer. The list is supported by [@prographon](https://github.com/prographon) community. Our current plans include finding more high-quality books, tutorials and articles, creating a step-by-step guide (roadmap) for becoming a graphics engineer and sharing knowledge about new edge-breaking technologies in Computer Graphics.
+
+## How to start learning
+
+### Required preparations
+
+The first thing to note is that to become graphic/rendering developer you must really know a lot. Almost all engines are written in C++, so you must certainly learn it first before diving into rendering. Knowledge of computer architecture is also highly recommended, specifically GPU architecture. C++/other languages resources are **not** present in this roadmap, as they are not explicitly related to graphics. You can either learn these topics first and then return to graphics, or try learning everything in parallel - the choice is up to you.
+
+### Starting point
+
+One of the easiest way to touch graphics programming without dealing with real graphic APIs is to write a software rasterizer/raytracer. [Ssloy's tutorials](https://github.com/ssloy/tinyrenderer/wiki) contain two very well explained tutorials: [tinyraytracer](https://github.com/ssloy/tinyraytracer/wiki) and [tinyrenderer](https://github.com/ssloy/tinyrenderer/wiki/Lesson-0:-getting-started). You can go through them first and get a good insight on how raytracing and graphic API implementation works, without even touching a real GPU.
+
+### WIP
+
+*This topic is not completed yet. If you want to speed up the process, feel free to contribute*
+
+
 
 ## Graphic API
 
