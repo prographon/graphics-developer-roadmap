@@ -41,6 +41,9 @@ One of the easiest way to touch graphics programming without dealing with real g
 - [Tips and Tricks: Vulkan Dos and Don’ts](https://developer.nvidia.com/blog/vulkan-dos-donts/) - Nvidia's tips for designing high performance Vulkan applications
 - [Vulkanised](https://www.youtube.com/watch?v=1rDCNknSb2s&list=PLYO7XTAX41FPMg41svrVJA9stwcYCvdW0) - Open webinars about Vulkan best practices and pitfalls by Khronos Group
 - [Writing an efficient Vulkan renderer](https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/) - Chapter about Vulkan renderer from GPU Zen 2 book in a form of the blogpost
+- [Vulkan Engine Guide](https://vkguide.dev/) - Vulkan game engine guide focuses around dynamic rendering. This tutorial use extra libraries like Vk Bootstrap and VMA to simplify boilerplate Vulkan code and memory allocation.
+- [Vulkan Game Engine by Brendan Galea](https://www.youtube.com/playlist?list=PL8327DO66nu9qYVKLDmdLW_84-yE4auCR) - Useful step by step tutorial on writing a game engine with a detailed illustrated description of how Vulkan works (not finished yet). 
+
 
 ### DirectX 12
 
