@@ -12,6 +12,14 @@ The first thing to note is that to become graphic/rendering developer you must r
 
 One of the easiest way to touch graphics programming without dealing with real graphic APIs is to write a software rasterizer/raytracer. [Ssloy's tutorials](https://github.com/ssloy/tinyrenderer/wiki) contain two very well written tutorials: [tinyraytracer](https://github.com/ssloy/tinyraytracer/wiki) and [tinyrenderer](https://github.com/ssloy/tinyrenderer/wiki/Lesson-0:-getting-started). You can go through them first and get a good insight on how raytracing and graphic API implementation works, without even touching a real GPU.
 
+### Parallel computing
+
+The best way to get insight of how GPU work is to try to adapt your code for parallel processing. If you followed the first step, at this point you have a nice looking path tracer / renderer, which now you can speed up by porting your rendering code to [OpenCL]() or [Cuda](). These are the frameworks for general purpose GPU computing which are not yet graphic APIs, but introduce some new concepts with which you should become familiar. If you already tried to optimize your projects by utilizing multiple CPU cores, the process of porting should not be hard.
+
+### OpenGL as first graphic API
+
+ Now when you have a bit of understanding of how interact with GPU, you can finally dive into real graphic APIs. The opinions may vary, but the smoothest learning curve is achieved when you start from the simplest graphic APIs, such as OpenGL, and only after mastering it switching to more verbose, like DirectX 12 or Vulkan. Note that even with OpenGL you can write almost everything, including 2D renderer, first-person shooter game or general-purpose game engine. It is okay spending a year on a project which seemed simple at first glance, as long as it helps you to learn and give you a joy. For best start we suggest watching Cherno's [OpenGL series](https://www.youtube.com/watch?v=W3gAzLwfIP0&list=PLlrATfBNZ98foTJPJ_Ev03o2oq3-GGOS2&ab_channel=TheCherno) and going through [LearnOpenGL turorials](https://learnopengl.com/). Your main goal at this stage is to understand how GPU rendering works, implement classic algorithms like [shadow mapping](https://learnopengl.com/Advanced-Lighting/Shadows/Shadow-Mapping) and [deferred rendering](https://learnopengl.com/Advanced-Lighting/Deferred-Shading), and create your own [physically based renderer](https://academy.substance3d.com/courses/the-pbr-guide-part-1). We believe that these are the topics which any graphic engineer should understand to be ready for real job in rendering team.
+
 ### WIP
 
 *This topic is not completed yet. If you want to speed up the process, feel free to contribute*
