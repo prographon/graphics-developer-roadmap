@@ -14,7 +14,7 @@ One of the easiest way to touch graphics programming without dealing with real g
 
 ### Parallel computing
 
-The best way to get insight of how GPU work is to try to adapt your code for parallel processing. If you followed the first step, at this point you have a nice looking path tracer / renderer, which now you can speed up by porting your rendering code to [OpenCL]() or [Cuda](). These are the frameworks for general purpose GPU computing which are not yet graphic APIs, but introduce some new concepts with which you should become familiar. If you already tried to optimize your projects by utilizing multiple CPU cores, the process of porting should not be hard.
+The best way to get insight of how GPU work is to try to adapt your code for parallel processing. If you followed the first step, at this point you have a nice looking path tracer / renderer, which now you can speed up by porting your rendering code to [OpenCL]() or [Cuda](https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html). These are the frameworks for general purpose GPU computing which are not yet graphic APIs, but introduce some new concepts with which you should become familiar. If you already tried to optimize your projects by utilizing multiple CPU cores, the process of porting should not be hard.
 
 ### OpenGL as first graphic API
 
