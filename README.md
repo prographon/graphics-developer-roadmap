@@ -76,6 +76,7 @@ The best way to get insight of how GPU work is to try to adapt your code for par
 - [GPU Pro](https://www.amazon.com/GPU-Pro-Advanced-Rendering-Techniques/dp/1568814720) (like GPU Gems, but it's closer to state-of-art)
 
 ## Articles
+- [Common Interview Questions for a Graphics Programmer](https://erkaman.github.io/posts/junior_graphics_programmer_interview.html) - checklist for a Junior Graphics Programmer
 - [Basic Theory of Physically-Based Rendering by Marmoset](https://marmoset.co/posts/basic-theory-of-physically-based-rendering/)
 - [Physically Based Rendering in Filament](https://google.github.io/filament/Filament.html) - equations and theory behind the material and lighting models used in Filament.
 
