@@ -51,6 +51,7 @@ The best way to get insight of how GPU work is to try to adapt your code for par
 - [Writing an efficient Vulkan renderer](https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/) - Chapter about Vulkan renderer from GPU Zen 2 book in a form of the blogpost
 - [Vulkan Engine Guide](https://vkguide.dev/) - Vulkan game engine guide focuses around dynamic rendering. This tutorial use extra libraries like Vk Bootstrap and VMA to simplify boilerplate Vulkan code and memory allocation.
 - [Vulkan Game Engine by Brendan Galea](https://www.youtube.com/playlist?list=PL8327DO66nu9qYVKLDmdLW_84-yE4auCR) - Useful step by step tutorial on writing a game engine with a detailed illustrated description of how Vulkan works (not finished yet). 
+- [Yet another blog explaining Vulkan synchronization](https://themaister.net/blog/2019/08/14/yet-another-blog-explaining-vulkan-synchronization/) - guide to Vulkan synchronization (barriers, semaphores, fences and etc.). Referenced by official Khronos blog.
 
 
 ### DirectX 12
@@ -114,7 +115,7 @@ The best way to get insight of how GPU work is to try to adapt your code for par
 - [Emilio Lopez](http://www.elopezr.com/) - Senior Graphics Engineer at Playground Games. Previously making LEGO at Traveller's Tales.
 - [Simon Coenen](https://simoncoenen.com/blog) - Platform Engineer at Studio Gobo, Brighton.
 - [Jasper St. Pierre](https://blog.mecheye.net/) - Creator of [noclip.website](https://noclip.website/). Staff Graphics Software Engineer at Cryptic Studios. Also has a [YouTube channel](https://www.youtube.com/user/DaysAreRare).
-
+- [Maister's Graphics Adventures](https://themaister.net/blog/) - low level graphics programming from author of [Granite](https://github.com/Themaister/Granite)
 ## Useful sites
 - [Shader Playground](http://shader-playground.timjones.io/) - powerful online shader compiler
 - [Shadertoy](https://www.shadertoy.com/) - shader showcase sandbox
