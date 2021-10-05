@@ -71,8 +71,10 @@ The best way to get insight of how GPU work is to try to adapt your code for par
 - [Fast affine texture mapping](http://ftp.lanet.lv/ftp/mirror/x2ftp/msdos/programming/theory/fatmap.txt)
 - [Ultimate /|\ ATARI 4nd d3m0 coding page !!!](https://mikro.naprvyraz.sk/docs/index.htm)
 - [Poor man's bilinear](https://www.hugi.scene.org/online/coding/hugi%2020%20-%20cobil.htm)
-- [Coding 3D Engines by Luku](http://www.luki.webzdarma.cz/luki_engine_en.htm)
-
+- [Coding 3D Engines by Luki](http://www.luki.webzdarma.cz/luki_engine_en.htm)
+- [256-Color VGA Programming in C](http://www.brackeen.com/vga/index.html)
+- [PlayStation Ordering Table Tutorial](https://psx.arthus.net/sdk/Psy-Q/DOCS/TECHNOTE/ordtbl.pdf)
+- [The Coverage Buffer (C-Buffer)](https://www.flipcode.com/archives/The_Coverage_Buffer_C-Buffer.shtml)
 
 ## Books
 - [Realtime Rendering](https://www.amazon.com/Real-Time-Rendering-Fourth-Tomas-Akenine-M%C3%B6ller/dp/1138627003) (graphics hardware, shading & lighting algorithms, ray tracing)
