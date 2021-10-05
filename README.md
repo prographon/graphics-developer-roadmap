@@ -66,6 +66,14 @@ The best way to get insight of how GPU work is to try to adapt your code for par
 - [DirectX 3D Series](https://wiki.planetchili.net/index.php/Hardware_3D_Series_(C%2B%2B_DirectX_Graphics))
 - [Braynzar soft DirectX 12 tutorials](https://www.braynzarsoft.net/viewtutorial/q16390-04-directx-12-braynzar-soft-tutorials)
 
+## Software Rasterization
+- [demo.design 3D programming FAQ](https://www.enlight.ru/faq3d/content.htm)
+- [Fast affine texture mapping](http://ftp.lanet.lv/ftp/mirror/x2ftp/msdos/programming/theory/fatmap.txt)
+- [Ultimate /|\ ATARI 4nd d3m0 coding page !!!](https://mikro.naprvyraz.sk/docs/index.htm)
+- [Poor man's bilinear](https://www.hugi.scene.org/online/coding/hugi%2020%20-%20cobil.htm)
+- [Coding 3D Engines by Luku](http://www.luki.webzdarma.cz/luki_engine_en.htm)
+
+
 ## Books
 - [Realtime Rendering](https://www.amazon.com/Real-Time-Rendering-Fourth-Tomas-Akenine-M%C3%B6ller/dp/1138627003) (graphics hardware, shading & lighting algorithms, ray tracing)
 - [Physically Based Rendering: From Theory To Implementation](http://www.pbr-book.org/) (PBR, photorealistic rendering, sampling methods)
