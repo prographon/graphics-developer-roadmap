@@ -126,6 +126,7 @@ The best way to get insight of how GPU work is to try to adapt your code for par
 - [Simon Coenen](https://simoncoenen.com/blog) - Platform Engineer at Studio Gobo, Brighton.
 - [Jasper St. Pierre](https://blog.mecheye.net/) - Creator of [noclip.website](https://noclip.website/). Staff Graphics Software Engineer at Cryptic Studios. Also has a [YouTube channel](https://www.youtube.com/user/DaysAreRare).
 - [Maister's Graphics Adventures](https://themaister.net/blog/) - low level graphics programming from author of [Granite](https://github.com/Themaister/Granite)
+- [A trip through the Graphics Pipeline 2011](https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index/) - Old but still up-to-date articles on GPU and driver internals.
 ## Useful sites
 - [Shader Playground](http://shader-playground.timjones.io/) - powerful online shader compiler
 - [Shadertoy](https://www.shadertoy.com/) - shader showcase sandbox
