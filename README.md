@@ -86,6 +86,16 @@ The best way to get insight of how GPU work is to try to adapt your code for par
 - [Collection of PDF books about graphics and programming](https://drive.google.com/drive/folders/1D-M15SvPxF1JqmzRt1UenQ1x6Zp_Ebb9?usp=sharing)
 - [GPU Pro](https://www.amazon.com/GPU-Pro-Advanced-Rendering-Techniques/dp/1568814720) (like GPU Gems, but it's closer to state-of-art)
 
+## Graphics Labs Publications
+- [EPFL Realistic Graphics Lab](http://rgl.epfl.ch/publications)
+- [KIT Computer Graphics Group](https://cg.ivd.kit.edu/english/publikationen.php)
+- [Utah Graphics Lab](https://graphics.cs.utah.edu/research/publications)
+- [Cornell University](https://www.graphics.cornell.edu/resources/publications)
+- [NVIDIA](https://research.nvidia.com/publications)
+- [AMD](https://gpuopen.com/learn/publications)
+- [Valve](https://www.valvesoftware.com/en/publications)
+- [Unity](https://unity.com/publications)
+
 ## Articles
 - [Common Interview Questions for a Graphics Programmer](https://erkaman.github.io/posts/junior_graphics_programmer_interview.html) - checklist for a Junior Graphics Programmer
 - [Basic Theory of Physically-Based Rendering by Marmoset](https://marmoset.co/posts/basic-theory-of-physically-based-rendering/)
