@@ -20,11 +20,11 @@ The best way to get insight of how GPU work is to try to adapt your code for par
 
  Now when you have a bit of understanding of how interact with GPU, you can finally dive into real graphic APIs. The opinions may vary, but the smoothest learning curve is achieved when you start from the simplest graphic APIs, such as OpenGL, and only after mastering it switching to more verbose, like DirectX 12 or Vulkan. Note that even with OpenGL you can write almost everything, including 2D renderer, first-person shooter game or general-purpose game engine. It is okay spending a year on a project which seemed simple at first glance, as long as it helps you to learn and give you a joy. For best start we suggest watching Cherno's [OpenGL series](https://www.youtube.com/watch?v=W3gAzLwfIP0&list=PLlrATfBNZ98foTJPJ_Ev03o2oq3-GGOS2&ab_channel=TheCherno) and going through [LearnOpenGL turorials](https://learnopengl.com/). Your main goal at this stage is to understand how GPU rendering works, implement classic algorithms like [shadow mapping](https://learnopengl.com/Advanced-Lighting/Shadows/Shadow-Mapping) and [deferred rendering](https://learnopengl.com/Advanced-Lighting/Deferred-Shading), and create your own [physically based renderer](https://academy.substance3d.com/courses/the-pbr-guide-part-1). We believe that these are the topics which any graphic engineer should understand to be ready for real job in rendering team.
 
-### WIP
+### Vulkan/DirectX12
 
-*This topic is not completed yet. If you want to speed up the process, feel free to contribute*
-
-
+At this point you should be quite familiar with graphic API and can implement some basic algorithms in graphics. From here you can move forward to more advanced APIs, like Vulkan, DirectX12 or Metal, which are positioned as industry standard in most companies which focus on gamedev/CGI. It does not actually matter a lot which API from these three you choose, as they are all quite simular and it does not take much time to switch from one to another. In this guide we suggest to stick with Vulkan, because it is cross-platform, have lots of great tutorials and materials and introduce most of the graphic API concepts which you potentially may encounter while working with any other graphic API.
+As you already have an OpenGL renderer, a good idea will be to port it to Vulkan API (or maybe support both APis). To begin with, we suggest to follow [Intel's Vulkan guide](https://software.intel.com/content/www/us/en/develop/articles/api-without-secrets-introduction-to-vulkan-preface.html), with assist of some additional resources, like [`Vulkan Engine Guide`](https://vkguide.dev/) and [`Writing an efficient Vulkan renderer` by Zeux](https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/). During development you will definitely encounter some problems which may seem hard to deal with, such as barrier placement, descriptor allocation, render pass manegement. As they are quite common, people have already come up with some good solid solutions, like [render-graph based rendering](https://themaister.net/blog/2017/08/) and [hybrid rendering](https://media.contentapi.ea.com/content/dam/ea/seed/presentations/wihlidal-halcyonarchitecture-notes.pdf). 
+So, all in all, the main goal for your at this stage is to create a high-performance, low overhead rendering framework with convinient to use interface. It will be both a good pet project for your graphics developer resume and an excellent sandbox with lots of opportunities for further experimentations.
 
 ## Graphic API
 
@@ -52,6 +52,7 @@ The best way to get insight of how GPU work is to try to adapt your code for par
 - [Vulkan Engine Guide](https://vkguide.dev/) - Vulkan game engine guide focuses around dynamic rendering. This tutorial use extra libraries like Vk Bootstrap and VMA to simplify boilerplate Vulkan code and memory allocation.
 - [Vulkan Game Engine by Brendan Galea](https://www.youtube.com/playlist?list=PL8327DO66nu9qYVKLDmdLW_84-yE4auCR) - Useful step by step tutorial on writing a game engine with a detailed illustrated description of how Vulkan works (not finished yet). 
 - [Yet another blog explaining Vulkan synchronization](https://themaister.net/blog/2019/08/14/yet-another-blog-explaining-vulkan-synchronization/) - guide to Vulkan synchronization (barriers, semaphores, fences and etc.). Referenced by official Khronos blog.
+- [Render graphs and Vulkan - a deep dive](https://themaister.net/blog/2017/08/) - series of articles about implementation of render-graph based rendering in Vulkan
 
 
 ### DirectX 12
