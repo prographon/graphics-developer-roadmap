@@ -67,6 +67,13 @@ So, all in all, the main goal for your at this stage is to create a high-perform
 - [DirectX 3D Series](https://wiki.planetchili.net/index.php/Hardware_3D_Series_(C%2B%2B_DirectX_Graphics))
 - [Braynzar soft DirectX 12 tutorials](https://www.braynzarsoft.net/viewtutorial/q16390-04-directx-12-braynzar-soft-tutorials)
 
+### WebGPU
+- [Explainer and FAQ](https://gpuweb.github.io/gpuweb/explainer/) - why proposed
+- [WebGPU Shading Language](https://www.w3.org/TR/WGSL/) - working draft
+- [webgpu.h] - header as a platform-agnostic hardware abstraction layer between implementations
+- [dawn](https://dawn.googlesource.com/dawn) - C++ implementation from Google
+- [wgpu](https://github.com/gfx-rs/wgpu) - Rust implementation from Mozilla
+
 ## Software Rasterization
 - [demo.design 3D programming FAQ](https://www.enlight.ru/faq3d/content.htm)
 - [Fast affine texture mapping](http://ftp.lanet.lv/ftp/mirror/x2ftp/msdos/programming/theory/fatmap.txt)
@@ -135,9 +142,11 @@ So, all in all, the main goal for your at this stage is to create a high-perform
 - [Matt Pettineo](https://therealmjp.github.io/posts/) - lead graphics/engine programmer at Ready At Dawn Studios, articles about Spherical Gaussians and GPU Barriers
 - [Emilio Lopez](http://www.elopezr.com/) - Senior Graphics Engineer at Playground Games. Previously making LEGO at Traveller's Tales.
 - [Simon Coenen](https://simoncoenen.com/blog) - Platform Engineer at Studio Gobo, Brighton.
+- [Inigo Quilez](https://iquilezles.org/articles/) - articles about sdf, raymarching etc.
 - [Jasper St. Pierre](https://blog.mecheye.net/) - Creator of [noclip.website](https://noclip.website/). Staff Graphics Software Engineer at Cryptic Studios. Also has a [YouTube channel](https://www.youtube.com/user/DaysAreRare).
 - [Maister's Graphics Adventures](https://themaister.net/blog/) - low level graphics programming from author of [Granite](https://github.com/Themaister/Granite)
 - [A trip through the Graphics Pipeline 2011](https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index/) - Old but still up-to-date articles on GPU and driver internals.
+
 ## Useful sites
 - [Shader Playground](http://shader-playground.timjones.io/) - powerful online shader compiler
 - [Shadertoy](https://www.shadertoy.com/) - shader showcase sandbox
