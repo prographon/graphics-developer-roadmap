@@ -70,7 +70,7 @@ So, all in all, the main goal for your at this stage is to create a high-perform
 ### WebGPU
 - [Explainer and FAQ](https://gpuweb.github.io/gpuweb/explainer/) - why proposed
 - [WebGPU Shading Language](https://www.w3.org/TR/WGSL/) - working draft
-- [webgpu.h] - header as a platform-agnostic hardware abstraction layer between implementations
+- [webgpu.h](https://github.com/webgpu-native/webgpu-headers/blob/main/webgpu.h) - header as a platform-agnostic hardware abstraction layer between implementations
 - [dawn](https://dawn.googlesource.com/dawn) - C++ implementation from Google
 - [wgpu](https://github.com/gfx-rs/wgpu) - Rust implementation from Mozilla
 
