@@ -68,9 +68,12 @@ So, all in all, the main goal for your at this stage is to create a high-perform
 - [Braynzar soft DirectX 12 tutorials](https://www.braynzarsoft.net/viewtutorial/q16390-04-directx-12-braynzar-soft-tutorials)
 
 ### WebGPU
+
+<img src="https://raw.githubusercontent.com/gpuweb/gpuweb/d2ef870027dffb1300cca72d7209c9c398090fe3/logo/webgpu-horizontal-responsive.svg" height="150">
+
 - [Explainer and FAQ](https://gpuweb.github.io/gpuweb/explainer/) - why proposed
 - [WebGPU Shading Language](https://www.w3.org/TR/WGSL/) - working draft
-- [webgpu.h](https://github.com/webgpu-native/webgpu-headers/blob/main/webgpu.h) - header as a platform-agnostic hardware abstraction layer between implementations
+- [webgpu.h](https://github.com/webgpu-native/webgpu-headers/blob/main/webgpu.h) - header as a platform-agnostic HAL between implementations
 - [dawn](https://dawn.googlesource.com/dawn) - C++ implementation from Google
 - [wgpu](https://github.com/gfx-rs/wgpu) - Rust implementation from Mozilla
 
@@ -143,7 +146,7 @@ So, all in all, the main goal for your at this stage is to create a high-perform
 - [Emilio Lopez](http://www.elopezr.com/) - Senior Graphics Engineer at Playground Games. Previously making LEGO at Traveller's Tales.
 - [Simon Coenen](https://simoncoenen.com/blog) - Platform Engineer at Studio Gobo, Brighton.
 - [Inigo Quilez](https://iquilezles.org/articles/) - articles about sdf, raymarching etc.
-- [Jasper St. Pierre](https://blog.mecheye.net/) - Creator of [noclip.website](https://noclip.website/). Staff Graphics Software Engineer at Cryptic Studios. Also has a [YouTube channel](https://www.youtube.com/user/DaysAreRare).
+- [Jasper St. Pierre](https://blog.mecheye.net/) - Creator of [noclip.website](https://noclip.website/) and [YouTube channel](https://www.youtube.com/user/DaysAreRare). Staff Graphics Engineer at Cryptic Studios.
 - [Maister's Graphics Adventures](https://themaister.net/blog/) - low level graphics programming from author of [Granite](https://github.com/Themaister/Granite)
 - [A trip through the Graphics Pipeline 2011](https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index/) - Old but still up-to-date articles on GPU and driver internals.
 
