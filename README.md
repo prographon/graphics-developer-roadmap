@@ -6,7 +6,7 @@ This repository contains different resources which may be helpful during your jo
 
 ### Required preparations
 
-The first thing to note is that to become graphic/rendering developer you must really know a lot. Almost all engines are written in C++, so you must certainly learn it first before diving into rendering. Knowledge of computer architecture is also highly recommended, specifically GPU architecture. C++/other languages resources are **not** present in this roadmap, as they are not explicitly related to graphics. You can either learn these topics first and then return to graphics, or try learning everything in parallel - the choice is up to you.
+The first thing to note is that to become graphic/rendering developer you must really know a lot. Almost all engines are written in C++, so you must certainly learn it first before diving into rendering. Knowledge of computer architecture is also highly recommended, specifically GPU architecture. C++/other languages resources are **not** present in this roadmap, as they are not explicitly related to graphics. You can either learn these topics first and then return to graphics, or try learning everything in parallel - the choice is up to you. Also, it is required to understand at least basics of linear algebra and trigonometry.
 
 ### Starting point
 
@@ -96,6 +96,7 @@ So, all in all, the main goal for your at this stage is to create a high-perform
 - [Ray Tracing in One Weekend Book Series](https://github.com/RayTracing/raytracing.github.io) (software ray tracing, BVH)
 - [Collection of PDF books about graphics and programming](https://drive.google.com/drive/folders/1D-M15SvPxF1JqmzRt1UenQ1x6Zp_Ebb9?usp=sharing)
 - [GPU Pro](https://www.amazon.com/GPU-Pro-Advanced-Rendering-Techniques/dp/1568814720) (like GPU Gems, but it's closer to state-of-art)
+- [Mathematics for 3D Game Programming and Computer Graphics](https://www.amazon.co.uk/Mathematics-Game-Programming-Computer-Graphics/dp/1435458869/ref=sr_1_1?keywords=mathematics+for+3d+game+programming+and+computer+graphics&qid=1680135551&sprefix=mathematics+for+3d+game+progra%2Caps%2C75&sr=8-1) (very useful book, covers almost everything needed for a start, pretty much a classic book)
 
 ## Graphics Labs Publications
 - [EPFL Realistic Graphics Lab](http://rgl.epfl.ch/publications)
