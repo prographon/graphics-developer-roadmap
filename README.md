@@ -125,6 +125,8 @@ So, all in all, the main goal for your at this stage is to create a high-perform
 
 ## Video courses
 - [TU Wien Ray tracing course](https://www.youtube.com/playlist?list=PLujxSBD-JXgnGmsn7gEyN28P1DnRZG7qi) - A course on photorealistic rendering, ray tracing and global illumination at the TU Wien
+- [Cem Yuksel Intro to Graphics](https://www.youtube.com/playlist?list=PLplnkTzzqsZTfYh4UbhLGpI5kGd5oW_Hh) - A course explaining mostly theoretical part of computer graphics, global illumination and simulation
+- [Cem Yuksel Interactive Graphics](https://www.youtube.com/playlist?list=PLplnkTzzqsZS3R5DjmCQsqupu43oS9CFN) - A course mostly for practical real-time renderer implementation
 
 ## Digests
 - [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg) - summaries of modern articles on computer graphics
