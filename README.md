@@ -71,6 +71,7 @@ So, all in all, the main goal for your at this stage is to create a high-perform
 
 <img src="https://raw.githubusercontent.com/gpuweb/gpuweb/d2ef870027dffb1300cca72d7209c9c398090fe3/logo/webgpu-horizontal-responsive.svg" height="150">
 
+- [Learn WebGPU in C++](https://eliemichel.github.io/LearnWebGPU/index.html) - wip tutorial
 - [Explainer and FAQ](https://gpuweb.github.io/gpuweb/explainer/) - why proposed
 - [WebGPU Shading Language](https://www.w3.org/TR/WGSL/) - working draft
 - [webgpu.h](https://github.com/webgpu-native/webgpu-headers/blob/main/webgpu.h) - header as a platform-agnostic HAL between implementations
@@ -148,14 +149,15 @@ So, all in all, the main goal for your at this stage is to create a high-perform
 - [Matt Pettineo](https://therealmjp.github.io/posts/) - lead graphics/engine programmer at Ready At Dawn Studios, articles about Spherical Gaussians and GPU Barriers
 - [Emilio Lopez](http://www.elopezr.com/) - Senior Graphics Engineer at Playground Games. Previously making LEGO at Traveller's Tales.
 - [Simon Coenen](https://simoncoenen.com/blog) - Platform Engineer at Studio Gobo, Brighton.
-- [Inigo Quilez](https://iquilezles.org/articles/) - articles about sdf, raymarching etc.
+- [Inigo Quilez](https://iquilezles.org/articles/) - articles about sdf, raymarching, raytracing etc.
 - [Jasper St. Pierre](https://blog.mecheye.net/) - Creator of [noclip.website](https://noclip.website/) and [YouTube channel](https://www.youtube.com/user/DaysAreRare). Staff Graphics Engineer at Cryptic Studios.
 - [Maister's Graphics Adventures](https://themaister.net/blog/) - low level graphics programming from author of [Granite](https://github.com/Themaister/Granite)
 - [A trip through the Graphics Pipeline 2011](https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index/) - Old but still up-to-date articles on GPU and driver internals.
 
 ## Useful sites
 - [Shader Playground](http://shader-playground.timjones.io/) - powerful online shader compiler
-- [Shadertoy](https://www.shadertoy.com/) - shader showcase sandbox
+- [Shadertoy](https://www.shadertoy.com/) - sandbox for fragment shaders
+- [@compute.toys](https://compute.toys) - sandbox for compute shaders
 - [GPU info](https://gpuinfo.org/) - open database of Vulkan, GL and GLES devices, their capabilities and supported extensions
 - [HexEd](https://hexed.it/) - browser-based hex editor
 
