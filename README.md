@@ -71,7 +71,6 @@ So, all in all, the main goal for your at this stage is to create a high-perform
 
 <img src="https://raw.githubusercontent.com/gpuweb/gpuweb/d2ef870027dffb1300cca72d7209c9c398090fe3/logo/webgpu-horizontal-responsive.svg" height="150">
 
-- [Learn WebGPU in C++](https://eliemichel.github.io/LearnWebGPU/index.html) - wip tutorial
 - [Explainer and FAQ](https://gpuweb.github.io/gpuweb/explainer/) - why proposed
 - [WebGPU Shading Language](https://www.w3.org/TR/WGSL/) - working draft
 - [webgpu.h](https://github.com/webgpu-native/webgpu-headers/blob/main/webgpu.h) - header as a platform-agnostic HAL between implementations
@@ -157,7 +156,7 @@ So, all in all, the main goal for your at this stage is to create a high-perform
 ## Useful sites
 - [Shader Playground](http://shader-playground.timjones.io/) - powerful online shader compiler
 - [Shadertoy](https://www.shadertoy.com/) - sandbox for fragment shaders
-- [@compute.toys](https://compute.toys) - sandbox for compute shaders
+- [compute.toys](https://compute.toys) - sandbox for compute shaders
 - [GPU info](https://gpuinfo.org/) - open database of Vulkan, GL and GLES devices, their capabilities and supported extensions
 - [HexEd](https://hexed.it/) - browser-based hex editor
 
