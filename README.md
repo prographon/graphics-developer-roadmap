@@ -152,6 +152,7 @@ So, all in all, the main goal for your at this stage is to create a high-perform
 - [Jasper St. Pierre](https://blog.mecheye.net/) - Creator of [noclip.website](https://noclip.website/) and [YouTube channel](https://www.youtube.com/user/DaysAreRare). Staff Graphics Engineer at Cryptic Studios.
 - [Maister's Graphics Adventures](https://themaister.net/blog/) - low level graphics programming from author of [Granite](https://github.com/Themaister/Granite)
 - [A trip through the Graphics Pipeline 2011](https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index/) - Old but still up-to-date articles on GPU and driver internals.
+- [Krzysztof Narkowicz](https://knarkowicz.wordpress.com/) - Technical director of graphics at Epic Games.
 
 ## Useful sites
 - [Shader Playground](http://shader-playground.timjones.io/) - powerful online shader compiler
